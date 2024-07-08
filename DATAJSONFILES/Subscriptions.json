@@ -1,0 +1,226 @@
+[
+  {
+    "duration": "month",
+    "userType": "Public",
+    "Phase": "onePhase",
+    "Price": 185
+  },
+  {
+    "duration": "month",
+    "userType": "Public",
+    "Phase": "twoPhases",
+    "Price": 230
+  },
+  {
+    "duration": "month",
+    "userType": "Public",
+    "Phase": "threePhases",
+    "Price": 270
+  },
+  {
+    "duration": "month",
+    "userType": "Public",
+    "Phase": "fourPhases",
+    "Price": 360
+  },
+
+
+  {
+    "duration": "month",
+    "userType": "Elderly",
+    "Phase": "onePhase",
+    "Price": 150
+  },
+
+  {
+    "duration": "month",
+    "userType": "Elderly",
+    "Phase": "twoPhases",
+    "Price": 210
+  },
+
+  {
+    "duration": "month",
+    "userType": "Elderly",
+    "Phase": "threePhases",
+    "Price": 300
+  },
+  {
+    "duration": "month",
+    "userType": "Elderly",
+    "Phase": "fourPhases",
+    "Price": 300
+  },
+
+
+
+
+
+
+
+
+  {
+    "duration": "quarter",
+    "userType": "Public",
+    "Phase": "onePhase",
+    "Price": 500
+  },
+  {
+    "duration": "quarter",
+    "userType": "Public",
+    "Phase": "twoPhases",
+    "Price": 630
+  },
+  {
+    "duration": "quarter",
+    "userType": "Public",
+    "Phase": "threePhases",
+    "Price": 760
+  },
+  {
+    "duration": "quarter",
+    "userType": "Public",
+    "Phase": "fourPhases",
+    "Price": 1000
+  },
+
+
+
+
+
+
+
+  {
+    "duration": "quarter",
+    "userType": "Elderly",
+    "Phase": "onePhase",
+    "Price": 450
+  },
+  {
+    "duration": "quarter",
+    "userType": "Elderly",
+    "Phase": "twoPhases",
+    "Price": 630
+  },
+  {
+    "duration": "quarter",
+    "userType": "Elderly",
+    "Phase": "threePhases",
+    "Price": 630
+  },
+  {
+    "duration": "quarter",
+    "userType": "Elderly",
+    "Phase": "fourPhases",
+    "Price": 900
+  },
+
+
+
+  {
+    "duration": "quarter",
+    "userType": "Students",
+    "Phase": "threePhases",
+    "Price": 22
+  },
+  {
+    "duration": "quarter",
+    "userType": "Students",
+    "Phase": "fourPhases",
+    "Price": 27
+  },
+
+
+
+
+
+
+
+  {
+    "duration": "quarter",
+    "userType": "Special_Needs",
+    "Phase": "threePhases",
+    "Price": 22
+  },
+  {
+    "duration": "quarter",
+    "userType": "Special_Needs",
+    "Phase": "fourPhases",
+    "Price": 27
+  },
+
+
+
+
+
+
+  {
+    "duration": "quarter",
+    "userType": "Revolution_Injured",
+    "Phase": "onePhase",
+    "Price": 250
+  },
+  {
+    "duration": "quarter",
+    "userType": "Revolution_Injured",
+    "Phase": "twoPhases",
+    "Price": 315
+  },
+  {
+    "duration": "quarter",
+    "userType": "Revolution_Injured",
+    "Phase": "threePhases",
+    "Price": 380
+  },
+  {
+    "duration": "quarter",
+    "userType": "Revolution_Injured",
+    "Phase": "fourPhases",
+    "Price": 500
+  },
+
+
+
+
+
+  {
+    "duration": "quarter",
+    "userType": "Journalists",
+    "Phase": "onePhase",
+    "Price": 420
+  },
+  {
+    "duration": "quarter",
+    "userType": "Journalists",
+    "Phase": "twoPhases",
+    "Price": 525
+  },
+  {
+    "duration": "quarter",
+    "userType": "Journalists",
+    "Phase": "threePhases",
+    "Price": 640
+  },
+  {
+    "duration": "quarter",
+    "userType": "Journalists",
+    "Phase": "fourPhases",
+    "Price": 860
+  },
+
+
+
+
+
+
+  {
+    "duration": "year",
+    "Phase": "twoLines",
+    "Price": 2760
+  },
+  {
+    "duration": "year",
+    "Phase": "threeLines",
+    "Price": 3465 
+  }
+]

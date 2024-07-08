@@ -1,0 +1,23 @@
+[
+  {
+    "category":"first",
+    "stationNumber":9,
+    "Public": 5,
+    "Elderly": 2.5
+  },
+  {
+    
+    "category":"second",
+    "stationNumber":16,
+    "Public": 10,
+    "Elderly": 3.5
+  },
+  {
+    "category":"third",
+    "stationNumber":39,
+    "Public": 17,
+    "Elderly": 5
+  }
+
+
+]
